@@ -1,0 +1,7 @@
+*.swp
+*.swo
+*github.com
+*go4.org
+*golang.org*
+*gopkg.in*
+*.tags
